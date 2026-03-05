@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Deixando aqui uma musica bonitinha pra minha gatinha ₍^. .^₎Ⳋ!!</h1> 
+      <h1>Deixando aqui uma musica bonitinha pra minha gatinha ₍^. .^₎Ⳋ!</h1> 
 
       <iframe
         width="400"
