@@ -1,6 +1,14 @@
 function Home() {
   return (
-    <div>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        minHeight: "100vh",
+      }}
+    >
       <h1>Deixando aqui uma musica bonitinha pra minha gatinha ₍^. .^₎!</h1>
 
       <iframe
@@ -14,10 +22,6 @@ function Home() {
       ></iframe>
     </div>
   );
-}
-
-function teste() {
-  console.log("teste");
 }
 
 export default Home;
